@@ -28,36 +28,36 @@ angular.module("angular", [])
                 
                 
 				Id: 0,
-				Name: "Juan Lopez",
+				Name: "José Luis Pomares",
 				Photo: "man.png",
-				Quote: "Carpe Diem",
-				Age: 32,
-				Occupation: "Comercial en empresa de automocion",
-				Family: "Con pareja desde hace 1 año",
-				Location: "Granada (Huetor Vega)",
-				Character: "Le gusta disfrutar del tiempo",
+				Quote: "Siempre feliz, con pico y pala",
+				Age: 21,
+				Occupation: "Estudiante de Bellas Artes",
+				Family: "Soltero",
+				Location: "Granada",
+				Character: "Lee 3 o 4 libros al mes",
 				PersonalityTraits: [
 					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 4 },
-					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 1 },
-					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 3 },
-					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 5 }
+					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 2 },
+					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 2 },
+					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 4 }
 				], 
-				Goals: ["Disfrutar del tiempo libre, viajar", "Cambiar a un trabajo más estable"],
-				Frustrations: ["le gusta la tecnología, pero siempre 'llama a un amigo' para resolver problemas", "Le gustaría tener más tiempo libre y leer más"],
-				Bio: "Es de Modril y vino a Granada para estudiar administración de empresas, pero no ha tenido grandes oportunidades de trabajo. LLeva 2 años contratado en la empresa actual. Aqui ha hecho buenos amigo en el trabajo y normalmente ser reunen para fiestas y a veces organizan viajes",
+				Goals: ["Viajar mucho. Descubrir nuevos países y culturas.", "Disfrutar de fiestas con conocidos", "Ser feliz con su trabajo"],
+				Frustrations: ["Sus amistades no suelen durar debido a sus cambios constantes de gustos", "Le gustaría dejar de fumar", "No ha tenido oportunidad de probar la comida tailandesa y le gustaría hacerlo"],
+				Bio: "Original y residente de Granada. Actualmente está estudiando el grado de Bellas Artes. Le gusta salir mucho por Pedro Antonio a explorar los diversos pubs los viernes noches y hacer nuevas amistades con las que explorar los diferentes espacios de consumo de Granada. Le encanta viajar cuando se puede.",
 				Tech: [
-					{ Name: "TIC/Internet", Value: 2 },
+					{ Name: "Diseño Gráfico", Value: 3 },
 					{ Name: "Movil", Value: 2 },
 					{ Name: "RRSS", Value: 3 },
 					{ Name: "Software", Value: 2 }
 					
 				], 
-                Contextos: "LLeva un tiempo preocupado y quiere desconectar Le gustaría dar una sorpresa a sus amigos para las vacaciones",  
+                Contextos: "Le gusta disfrutar de una buena fiesta en compañía de gente de su edad. Turismo nocturno.",  
 				PreferredChannels: [
-					{ Name: "Publicidad Tradicional", Value: 5 },
-					{ Name: "Online & Social Media", Value: 3 },
-					{ Name: "Recomendaciones & sugerencias", Value: 2 },
-					{ Name: "Persona confianza (amigos, boca a boca)", Value: 1 }
+					{ Name: "Publicidad Tradicional", Value: 1 },
+					{ Name: "Online & Social Media", Value: 5 },
+					{ Name: "Recomendaciones & sugerencias", Value: 4 },
+					{ Name: "Persona confianza (amigos, boca a boca)", Value: 4 }
 				]
 			},
 			{	
@@ -69,36 +69,36 @@ angular.module("angular", [])
                 
                 
 				Id: 1,
-				Name: "Monica Suarez",
+				Name: "María Teresa Lozano",
 				Photo: "woman.png",
-				Quote: "A quotation that captures the essence of this person's personality",
-				Age: 17,
-				Occupation: "Searching for a cure for the Empress",
-				Family: "No parents, only family are the people who raised him.",
-				Location: "The Grassy Plains of Fantasia",
-				Character: "Strong, reliable and fearless.",
+				Quote: "Vive y se feliz, porque solo cuando eres feliz podrás vivir",
+				Age: 33,
+				Occupation: "Fisioterapeuta",
+				Family: "Vive con su pareja y su hijo. Sus padres viven en Salamanca.",
+				Location: "Madrid",
+				Character: "Dulce, sensible y tranquila",
 				PersonalityTraits: [
-					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 3 },
-					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 3 },
-					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 2 },
-					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 2 }
+					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 2 },
+					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 4 },
+					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 1 },
+					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 4 }
 				], 
-				Goals: ["The goals this user hopes to achieve.", "A task that needs to be completed.", "A life goal to be reached.", "An experience to be felt."],
-				Frustrations: ["The frustrations this user would like to avoid.", "The obstacle that prevents the user from achieving their goals.", "The problems with the solutions already available.", "The product or service which does not currently exist."],
-				Bio: "The bio should be a short paragraph to describe the user journey. It should include some of their history leading up to a current use case. It may be helpful to incorporate information listed across the template and add pertinent details that may have been left out. Highlight factors of the user's personal and professional life that make this user an ideal customer of your product.",
+				Goals: ["Visitar Egipto", "Comprarle una caravana a sus padres", "Tener 3 hijos", "Ver la aurora boreal"],
+				Frustrations: ["Tiene demasiado trabajo", "La mayoría de sus amigas tiene hijos y no se pueden adaptar a sus planes", "No tiene tiempo para aprender a tocar la guitarra"],
+				Bio: "Nacida en Extremadura y viviendo en Madrid. Desde pequeña siempre le han gustado los libros y los instrumentos, pero sus padres le han puesto mucho empeño en sus estudios. Está casada y tiene un hijo llamado Hugo de 4 años.",
 				Tech: [
-					{ Name: "TIC/Internet", Value: 5 },
-					{ Name: "Mobile", Value: 3 },
-					{ Name: "RRSS", Value: 3 },
-					{ Name: "Software", Value: 5 }
+					{ Name: "TIC/Internet", Value: 1 },
+					{ Name: "Mobile", Value: 2 },
+					{ Name: "RRSS", Value: 5 },
+					{ Name: "Software", Value: 1 }
 					
 				], 
-                Contextos:   "The goals this user hopes to achieve." ,
+                Contextos:   "Quiere vivir una vida plena y tranquila. Explorar mundo y naturaleza. Le gustaría aprender nuevos idiomas y a tocar nuevos instrumentos. Apasionada de la lectura, en concreto la novela romántica." ,
 				PreferredChannels: [
-					{ Name: "Publicidad Tradicional (Ads)", Value: 5 },
-					{ Name: "Online & Social Media", Value: 2 },
-					{ Name: "Recomendaciones & sugerencias", Value: 2 },
-					{ Name: "Persona confianza (amigos, boca a boca)", Value: 2 }
+					{ Name: "Publicidad Tradicional (Ads)", Value: 3 },
+					{ Name: "Online & Social Media", Value: 4 },
+					{ Name: "Recomendaciones & sugerencias", Value: 4 },
+					{ Name: "Persona confianza (amigos, boca a boca)", Value: 4 }
 				]
 			}
 		];
