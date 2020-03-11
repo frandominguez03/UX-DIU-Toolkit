@@ -123,19 +123,19 @@ angular.module("angular", [])
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Consigue hacer una reserva con otro matrimonio de sus gustos similares para un viaje a Egipto",
+                goal5: "Publica en la plataforma un viaje a Egipto",
                 touch5: "Móvil (webapp)",
-                feel5: "3",
-                con5: "Sabe poco del otro matrimonio y no saben si su hijo se sentirá agusto",
+                feel5: "2",
+                con5: "No hay ninguna opción para filtrar por matrimonio o para indicar que se viaja con niños, por lo que tiene que especificar esos detalles en la descripción del viaje",
                 ima5: "cartoon-phone-sitting.png",
 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "El viaje está planeado pero la experiencia con la plataforma no ha sido la mejor",
-                touch6: "Móvil (reserva OK)",
-                feel6: "4",
-                con6: "Muchos datos por rellenar para que luego no salgan una gran cantidad de opciones a elegir",
+                goal6: "No llegan candidatos al viaje por la falta de filtros en la plataforma",
+                touch6: "Móvil",
+                feel6: "1",
+                con6: "No ha sido buena opción para buscar viaje ya que carece de opciones básicas",
                 ima6: "cartoon-PChard.png",
                 
                 
